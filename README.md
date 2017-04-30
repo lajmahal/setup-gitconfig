@@ -11,11 +11,9 @@ Role Variables
 
 Example Playbook
 ----------------
-'''
     - hosts: localhost
       vars:
         gitconfig_name: "John Doe"
         gitconfig_email: "john.doe@email.com"
       roles:
          - setup-gitconfig
-'''
