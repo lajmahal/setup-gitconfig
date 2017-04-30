@@ -1,4 +1,4 @@
-Role Name
+setup-gitconfig
 =========
 
 Generates the gitconfig. Ensures your build server will always use the correct name and email address when interacting with git repos with strict commit hooks.
